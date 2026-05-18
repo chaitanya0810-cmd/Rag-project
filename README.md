@@ -1,3 +1,5 @@
+<img width="940" height="724" alt="Screenshot 2026-05-18 154109" src="https://github.com/user-attachments/assets/ef442885-5f19-46e0-9748-02b8b2272e9d" />
+<img width="940" height="724" alt="Screenshot 2026-05-18 154109" src="https://github.com/user-attachments/assets/210febed-cffe-4daf-a588-42d8469c4ae1" />
 Deliverable 1: HLD (High Level Design)
 
 Sections:
